@@ -21,7 +21,7 @@ A RESTful API built with Node.js, Express, and MySQL for a basic Book Review sys
    DB_HOST=localhost
    DB_USER=root
    DB_PASSWORD=yourpassword
-   DB_NAME=users_db
+   DB_NAME=book_review
    JWT_SECRET=your_jwt_secret
    ```
 
